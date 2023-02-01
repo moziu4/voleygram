@@ -1,0 +1,176 @@
+[{
+    "id":1,
+    "titulo":"Convo domingo",
+    "dia": "12/02/2023",
+    "hora": "19:00",
+    "lugar": "Centre Natacio",
+    "ciudad": "Mataró",
+    "limitePerson": 12,
+    "modalidad": ["4 x 4"],
+    "participantes":[
+        {
+            "nombre": "Abel",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Dani",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Raul",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+},
+{
+    "id":2,
+    "titulo":"Super Convo",
+    "dia": "12/02/2023",
+    "hora": "18:00",
+    "lugar": "Bululu",
+    "ciudad": "Mataró",
+    "limitePerson": 8,
+    "modalidad": ["2 x 2"],
+    "participantes":[
+        {
+            "nombre": "Jaume",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Moi",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Paco",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+},
+{
+    "id":3,
+    "titulo":"Me gusta el voley",
+    "dia": "12/02/2023",
+    "hora": "19:00",
+    "lugar": "Centre Natacio",
+    "ciudad": "Mataró",
+    "limitePerson": 12,
+    "modalidad": ["2 x 2","4 x 4"],
+    "participantes":[
+        {
+            "nombre": "Abel",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Dani",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Raul",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+},
+{
+    "id":4,
+    "titulo":"Convo Arenys",
+    "dia": "12/02/2023",
+    "hora": "18:00",
+    "lugar": "Bululu",
+    "ciudad": "Mataró",
+    "limitePerson": 8,
+    "modalidad": ["2 x 2"],
+    "participantes":[
+        {
+            "nombre": "Jaume",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Moi",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Paco",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+},{
+    "id":5,
+    "titulo":"Convo Sabado",
+    "dia": "12/02/2023",
+    "hora": "19:00",
+    "lugar": "Centre Natacio",
+    "ciudad": "Mataró",
+    "limitePerson": 12,
+    "modalidad": ["4 x 4"],
+    "participantes":[
+        {
+            "nombre": "Abel",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Dani",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Raul",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+},
+{
+    "id":6,
+    "titulo":"Super Convo 3",
+    "dia": "12/02/2023",
+    "hora": "18:00",
+    "lugar": "Bululu",
+    "ciudad": "Mataró",
+    "limitePerson": 8,
+    "modalidad": ["2 x 2", "4 x 4", "Popular"],
+    "participantes":[
+        {
+            "nombre": "Jaume",
+            "items": "Red",
+            "administrador": true
+        },
+        {
+            "nombre": "Moi",
+            "items": "Pelota",
+            "administrador": false
+        },
+        {
+            "nombre": "Paco",
+            "items": "Nada",
+            "administrador": false
+        }
+
+
+    ]
+}
+
+
+]
