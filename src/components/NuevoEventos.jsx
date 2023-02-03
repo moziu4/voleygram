@@ -2,11 +2,11 @@ import react from "react";
 import { View, Text } from "react-native";
 
 const NuevoEvento = () => {
-return (
+  return (
     <View>
-        <Text>HOla</Text>
+      <Text>HOla</Text>
     </View>
-)
-}
+  );
+};
 
-export default NuevoEvento
+export default NuevoEvento;
